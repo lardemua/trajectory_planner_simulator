@@ -41,4 +41,4 @@ roslaunch cirkit_unit03_gazebo ackermann_vehicle_simulator.launch
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GLP v3.0 License - see the [LICENSE.md](LICENSE.md) file for details.
